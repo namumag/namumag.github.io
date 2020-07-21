@@ -1,5 +1,4 @@
 # namumag.github.io
-남라잡지 HTML 공식 계정입니다.
 
 남라잡지의 GitHub 계정입니다.
 
